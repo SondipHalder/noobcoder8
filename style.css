@@ -1,0 +1,68 @@
+header{
+    background-color: #F8F9FA;
+}
+ul.ii {
+    margin-left: 30px;
+    font-size: 18px;
+}
+.carousel-caption.d-none.d-md-block.up {
+    margin: 215px 0px;
+    font-size: 25px;
+}
+.banner-slider img{
+    max-height:600px ;
+}
+img{
+    max-width: 100%;
+}
+.con-img.paa {
+    border: 2px solid #ddd;
+    padding: 4px;
+}
+.n{
+    width: 49%;
+    margin-left: 0%;
+}
+.chackbox{
+    padding:15px 0px 0px 0px;
+}
+.chackbox p{
+    font-size: 20px;
+}
+.btn .v {
+    display: inline-block;
+    background-color: green;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 32px;
+}
+.tableand{
+    background-color: rgb(244, 244, 244);
+}
+.b{ border: none;}
+.b:hover{
+    border: none;
+}
+.kk{
+    margin-top: 10px;
+}
+.texy{
+    margin-top: 35px;
+}
+.si{
+    min-height: 438px;
+}
+.si img{
+    max-height: 274px;
+}
+.caaa{
+    background-color: rgba(235, 231, 231, 0.211);
+}
+.ff{
+    height: 277px;
+}
+.ffjj{
+    color: orange;
+}
